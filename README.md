@@ -37,11 +37,13 @@
 *\<major>.\<minor>.\<patch>*
 
 **Major version numbers**
+
 Major version numbers must be incremented if there are breaking changes
 
 *Note: Minor- and patch version numbers are resetted back to 0 with a new major release*
 
 **Minor version numbers**
+
 Minor version numbers must be incremented if:
 * New features were added
 * The current version is *fully* compatible with the previous version within this major version
@@ -49,4 +51,5 @@ Minor version numbers must be incremented if:
 *Note: Patch version numbers are resetted back to 0 with a new minor release*
 
 **Patch version numbers**
+
 Patch version numbers must be incremented if a bug was fixed on the master branch (using the intended **hotfix** branch)
