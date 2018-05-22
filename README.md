@@ -1,4 +1,4 @@
-# Git Flow +
+# Git Flow '+'
 
 ## Branching
 ### The base: ‘develop’ and ‘master’ branches
